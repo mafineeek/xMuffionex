@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MURFFY Discord bot**
 
-- 🌱 I’m currently learning **Python, discord.py**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Node.js**
 

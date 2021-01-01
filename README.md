@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **MURFFY Discord bot**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **mafineeek@discords.company**
+- 📫 How to reach me **kg968407@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
